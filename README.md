@@ -3,7 +3,7 @@
 ## Link: [Quiz App](https://loaymoolb.github.io/quiz-app)
 ### Simple pet project using HTML5 / CSS / JavaScript
 
-![Image alt](https://github.com/loaymoolb/quiz-app/raw/master/cover.png)
+![Image alt](https://github.com/loaymoolb/quiz-app/raw/main/cover.png)
 
 ## Get in touch with me:
 [LinkedIn](https://linkedin.com/in/olha-chumak)  
